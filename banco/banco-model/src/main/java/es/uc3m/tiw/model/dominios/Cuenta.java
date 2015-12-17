@@ -27,9 +27,8 @@ public class Cuenta implements Serializable{
 		super();
 	}
 	
-	public Cuenta(Long id, String dni, double saldo, String tarjeta) {
+	public Cuenta(String dni, double saldo, String tarjeta) {
 		super();
-		this.id = id;
 		this.dni = dni;
 		this.saldo = saldo;
 		this.tarjeta = tarjeta;
