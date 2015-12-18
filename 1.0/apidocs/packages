@@ -1,0 +1,8 @@
+es.uc3m.tiw.ejb
+es.uc3m.tiw.model
+es.uc3m.tiw.model.dominios
+es.uc3m.tiw.model.daos
+controladores
+es.uc3m.tiw.web
+es.uc3m.tiw.web.configuracion
+es.uc3m.tiw.util
